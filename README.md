@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Ioan 👋
 
-<!--
-**iistrate/iistrate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Principal Engineer at **[Tripvento](https://tripvento.com)** — a B2B API that ranks hotels by *traveler intent* using geospatial intelligence and semantic AI.
 
-Here are some ideas to get you started:
+Instead of sorting by price or stars, Tripvento analyzes 200M+ spatial relationships to determine how a hotel's surroundings match what a traveler actually needs — whether that's a quiet business trip, a family vacation, or a romantic getaway. 212 destinations, 24K+ hotels, 14 traveler personas, sub-250ms response times.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- 🏨 Scaling Tripvento's programmatic SEO across hundreds of destinations
+- 🤖 MCP server integration so AI travel agents can access structured hotel context
+- 🎓 Head TA for Georgia Tech's Graduate Operating Systems course (~1,000 students)
+
+## Background
+
+- Built hotel ranking infrastructure at **U.S. News & World Report** serving 60M+ users
+- MS Computer Science, **Georgia Tech**
+- Full-stack: Python · Django · PostgreSQL/PostGIS · pgvector · REST APIs
+- Previously ran a web dev agency (400+ client projects)
+
+## Outside of code
+
+Romanian-American splitting time between West Virginia and Romania. Into deer hunting, boxing, hiking, and trying to get back to a sub-20 5K.
+
+---
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tripvento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istrateioan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white)](https://ioanistrate.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.tripvento.com)
+[![Tripvento](https://img.shields.io/badge/Tripvento-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://tripvento.com)
