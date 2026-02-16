@@ -27,4 +27,4 @@ Romanian-American splitting time between West Virginia and Romania. Into deer hu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istrateioan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=safari&logoColor=white)](https://ioanistrate.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.tripvento.com)
-[![Tripvento](https://img.shields.io/badge/Tripvento-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://tripvento.com)
+[![Tripvento](https://img.shields.io/badge/Tripvento-000000?style=for-the-badge)](https://tripvento.com)
