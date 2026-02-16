@@ -12,7 +12,7 @@ Instead of sorting by price or stars, Tripvento analyzes 200M+ spatial relations
 
 ## Background
 
-- Built hotel ranking infrastructure at **U.S. News & World Report** serving 60M+ users
+- Worked on hotel ranking infrastructure at **U.S. News & World Report** serving 60M+ users
 - MS Computer Science, **Georgia Tech**
 - Full-stack: Python · Django · PostgreSQL/PostGIS · pgvector · REST APIs
 - Previously ran a web dev agency (400+ client projects)
