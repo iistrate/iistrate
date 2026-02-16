@@ -19,7 +19,7 @@ Instead of sorting by price or stars, Tripvento analyzes 200M+ spatial relations
 
 ## Outside of code
 
-Romanian-American splitting time between West Virginia and Romania. Into deer hunting, boxing, hiking, and trying to get back to a sub-20 5K.
+Romanian-American splitting time between West Virginia, D.C., and Romania. Into weightlifting, boxing, hiking, and trying to get back to a sub-20 5K.
 
 ---
 
