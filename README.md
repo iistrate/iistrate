@@ -2,7 +2,7 @@
 
 Founder & Principal Engineer at **[Tripvento](https://tripvento.com)** — a B2B API that ranks hotels by *traveler intent* using geospatial intelligence and semantic AI.
 
-Instead of sorting by price or stars, Tripvento analyzes 200M+ spatial relationships to determine how a hotel's surroundings match what a traveler actually needs — whether that's a quiet business trip, a family vacation, or a romantic getaway. 300+ destinations, 35k+ hotels, 14 traveler personas, sub-250ms response times.
+Instead of sorting by price or stars, Tripvento analyzes 400M+ spatial relationships to determine how a hotel's surroundings match what a traveler actually needs — whether that's a quiet business trip, a family vacation, or a romantic getaway. 300+ destinations, 35k+ hotels, 14 traveler personas, sub-250ms response times.
 
 ## What I'm working on
 
